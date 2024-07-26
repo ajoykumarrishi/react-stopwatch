@@ -3,10 +3,10 @@ import Stopwatch from './components/stopwatch';
 
 const App = () => {
   return (
-    <div>
+    <div style={{backgroundColor: '#323437', minHeight: '100vh'}}>
       <Stopwatch />
     </div>
-  )
-}
+  );
+};
 
 export default App;
