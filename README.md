@@ -11,11 +11,11 @@ A simple stopwatch application built with React.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/stopwatch-app.git
+    git clone https://github.com/ajoykumarrishi/react-stopwatch
     ```
 2. Navigate to the project directory:
     ```bash
-    cd stopwatch-app
+    cd react-stopwatch
     ```
 3. Install the dependencies:
     ```bash
