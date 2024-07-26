@@ -65,6 +65,10 @@ A simple stopwatch application built with React.
   - `react-dom`
   - `bootstrap` (for styling)
 
+## Demo
+
+You can view a live demo of the application [here](https://ajoykumarrishi.github.io/react-stopwatch).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
